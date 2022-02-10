@@ -1,6 +1,6 @@
 # 3D 
 
-## 1er Trimestre
+# 1er Trimestre
 
 ### Torre Eiffe
 Hoy hemos echo la Torre Eiffe con ![TINKERCAD.](https://www.tinkercad.com/)
@@ -25,7 +25,7 @@ Para hacerlo hemos segudo los pasos de este video ![Pantheon](https://youtu.be/5
 ---
 
 
-## 2nd Trimestre
+# 2nd Trimestre
 
 
 
