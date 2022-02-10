@@ -33,7 +33,7 @@ Para hacerlo hemos segudo los pasos de este video ![Pantheon](https://youtu.be/5
  
 ### Que es Onshape?
 
-Onshape es u
+Onshape es 
 
 Para empezar hemos hecho esta pieza sencilla ayudandonos de una imagen que puso Leo en la pizara.
 
