@@ -24,10 +24,7 @@ Para hacerlo hemos segudo los pasos de este video ![Pantheon](https://youtu.be/5
 
 ---
 
-
 # 2nd Trimestre
-
-
 
 #  Estamos utlizando [oneshape](https://www.onshape.com/en/)
  
