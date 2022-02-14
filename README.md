@@ -8,12 +8,22 @@
 
 ## Ejercicios
 
-1. Buscar información sobre que son los moldes.
+1.Buscar información sobre que son los moldes.
+---
+Ques es un molde?
+---
+Un molde es una pieza hueca pero con los detalles exteriores del futuro sólido que se desea obtener. 
 
-- Ques es un molde?
-- Como se hace un molde?
-- Para que sirve un molde?
+Como se hace un molde?
+---
+Se vierte el material fluido o plástico, que cuando se solidifica adquiere la forma del molde que lo contiene.
 
-2. Como se hacen moldes con impresoras3D.
+Para que sirve un molde?
+---
+Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas.
 
-3 Hacemos un molde con Tinkercad.
+2.Como se hacen moldes con impresoras3D.
+---
+
+3.Hacemos un molde con Tinkercad.
+---
