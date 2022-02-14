@@ -4,3 +4,5 @@
 ---
 [ONSHAPE](https://github.com/ANGEY33/3D/blob/main/Onshape.md)
 ---
+[EJERCICIOS](https://github.com/ANGEY33/3D/blob/main/Ejercicios.md)
+---
