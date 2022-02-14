@@ -21,3 +21,4 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas.
 
 3.Hacemos un molde con Tinkercad.
 ---
+![imajen](https://github.com/ANGEY33/3D/blob/main/Captura%20de%20pantalla%20de%202022-02-14%2010-15-13.png)
