@@ -26,3 +26,11 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas.
 4.Hacer un molde en Onshape de una figura simple.
 ---
 ![imajen](https://github.com/ANGEY33/3D/blob/main/Captura%20de%20pantalla%20de%202022-02-14%2010-39-18.png)
+
+5.Busca información sobre:
+---
+
+- Que es una CNC
+- Para que sirve
+- Como se puede usar en la fabricacion digital?
+- Que cosas puedes hacer con una CNC
