@@ -30,7 +30,7 @@ Los moldes pueden ser utilizados para hacer trabajos únicos o piezas seriadas.
 5.Busca información sobre:
 ---
 
-- Que es una CNC?
-- Para que sirve?
-- Como se puede usar en la fabricacion digital?
-- Que cosas puedes hacer con una CNC?
+### Que es una CNC?
+### Para que sirve?
+### Como se puede usar en la fabricacion digital?
+### Que cosas puedes hacer con una CNC?
