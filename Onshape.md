@@ -40,7 +40,7 @@ El uso de restricciones puede bloquear un boceto para que no se produzcan cambio
 ---
 - Fijar: Asegura una entidad de boceto en un plano de boceto para que no se mueva.
 ---
-- Curvatura: 
+- Curvatura: Crea tranciciones de curvatura continuas entre splines de boceto o conicos y la geometria circundante.
 ---
 
 
