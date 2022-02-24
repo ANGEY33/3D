@@ -15,21 +15,20 @@ Onshape es un software CAD. Las opciones que ofrece son muy variadas.
 
 El uso de restricciones puede bloquear un boceto para que no se produzcan cambios no deseados en ellos cuando esté alterando otras partes.
 
-- Coincidente:
-- Concentrico:
-- Paralela:
-- Tangente:
-- Horizontal:
-- Vetical:
-- Perpendicular:
-- Igual:
-- Punto medio:
-- Normal:
-- Perforar:
-- Simetrico:
-- Fijar:
-- Curvatur:
-- 
+- Coincidente: Hace que dos o mas entidades de un boceto compartan la misma ubicacion.
+- Concentrico: Hace que cualquier punto coincida con el centro de un circulo o un arco.
+- Paralela: Crea dos o mas lineas paralelas.
+- Tangente: Estableze dos relacciones tangentes entre dos entidades de un boceto o entre una entidad de boceto y un plano.
+- Horizontal: Limita una o mas lineas para que sean horizontales.
+- Vetical: Limita una o mas lineas para que sean verticales.
+- Perpendicular: Crea dos lineas perpendiculares.
+- Igual: Hace que varias lineas tengan la misma longitud o varios arcos el mismo radio.
+- Punto medio: Limita un punto de un bocet al punto medio de una linea o un arco.
+- Normal: Crea una linea y una curva o una curva y un plano perpendiculares.
+- Perforar: Crea una entidad de boceto que coincida con otra entidad por fuera del plano del bocet.
+- Simetrico: Hace que dos entidades del mismo tipo sean simetricas.
+- Fijar: Asegura que una entidad de boceto en un plano de boceto para que no se mueva.
+- Curvatura: Crea transiciones de curvaturas entre splines de boceto
 
 
 
