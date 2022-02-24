@@ -7,6 +7,17 @@
 
 Onshape es un software CAD. Las opciones que ofrece son muy variadas.
 
+### El uso de restricciones. 
+
+![imajen](https://github.com/ANGEY33/3D/blob/main/restinciones.png)
+
+
+
+El uso de restricciones puede bloquear un boceto para que no se produzcan cambios no deseados en ellos cuando esté alterando otras partes.
+
+
+
+
 Para empezar hemos hecho esta pieza sencilla ayudandonos de una imagen que puso Leo en la pizara.
 
 ![imajen](https://github.com/ANGEY33/1er-TRIMESTRE/blob/main/Captura%20de%20pantalla%20de%202022-02-02%2013-00-35.png)
