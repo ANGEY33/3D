@@ -15,6 +15,28 @@ Onshape es un software CAD. Las opciones que ofrece son muy variadas.
 
 El uso de restricciones puede bloquear un boceto para que no se produzcan cambios no deseados en ellos cuando esté alterando otras partes.
 
+- Coincidente:
+- Concentrico:
+- Paralela:
+- Tangente:
+- Horizontal:
+- Vetical:
+- Perpendicular:
+- Igual:
+- Punto medio:
+- Normal:
+- Perforar:
+- Simetrico:
+- Fijar:
+- Curvatur:
+- 
+
+
+
+
+
+
+
 ---
 Para empezar hemos hecho esta pieza sencilla ayudandonos de una imagen que puso Leo en la pizara.
 
