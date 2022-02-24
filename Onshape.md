@@ -15,7 +15,7 @@ Onshape es un software CAD. Las opciones que ofrece son muy variadas.
 
 El uso de restricciones puede bloquear un boceto para que no se produzcan cambios no deseados en ellos cuando esté alterando otras partes.
 
-
+```
 - Coincidente: Hace que dos o mas entidades de un boceto compartan la misma ubicacion.
 ---
 - Concentrico: Hace que cualquier punto coincida con el centro de un circulo o un arco.
@@ -42,7 +42,7 @@ El uso de restricciones puede bloquear un boceto para que no se produzcan cambio
 ---
 - Curvatura: Crea tranciciones de curvatura continuas entre splines de boceto o conicos y la geometria circundante.
 ---
-
+```
 
 
 
